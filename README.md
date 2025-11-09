@@ -1,8 +1,6 @@
 # Avinash Pokhrel
 
-I am a highly motivated Junior Backend Developer with a solid foundation in Python, JavaScript, and various backend frameworks. I possess a proven ability to
-develop and maintain robust applications, complemented by hands-on experience in full-stack development and database management. I am eager to contribute
-meaningfully to innovative projects and cultivate continuous growth within a dynamic team.
+I am a Software Developer with expertise in Python, JavaScript, and modern frameworks. I specialize in developing scalable, efficient, and reliable applications, with a strong focus on clean architecture, performance, and continuous improvement through innovative solutions.
 
 ## Work Experience
 
@@ -24,13 +22,14 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
 
 **Languages**: Python, JavaScript, TypeScript, C, C++, Go.
 
-**Frameworks/Libraries**: React, Node.js, Express.js, Flask, FastAPI, Zustand, Socket.io.
+**Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io.
 
 **Databases**: PostgreSQL, SQLite, Redis, Firebase
 
 **Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux.
 
 <div> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -39,5 +38,4 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
