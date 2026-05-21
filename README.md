@@ -1,32 +1,42 @@
-# Avinash Pokhrel
+# Avinash Pokhrel 
 
-I am a Software Developer with expertise in Python, JavaScript, and modern frameworks. I specialize in developing scalable, efficient, and reliable applications, with a strong focus on clean architecture, performance, and continuous improvement through innovative solutions.
+## Software Engineer
+
+I build reliable backend systems and full-stack applications with a focus on performance, maintainability, and real-world impact. I work primarily with Python, FastAPI, and modern web technologies to deliver production-ready software that scales.
 
 ## Work Experience
 
-### Junior Python Developer | Pulse Inc.
-> **April 2025 – Present**
+### Software Engineer | Caredevi Services LLC (Remote)
+> **Nov 2025 – Present**
 
-- Develops and maintains Python-based applications, contributing to backend system enhancements.
-- Collaborates on feature development and participates in code reviews.
-- Adopts best practices for scalable and reliable software solutions.
+- Architected a FastAPI microservice powering end-to-end healthcare workflows with **99.9% uptime** and **1,000+ daily transactions**.
+- Implemented SMART on FHIR integrations for secure, interoperable healthcare data exchange.
+- Designed Redis caching and optimized PostgreSQL schemas, reducing query latency by **20%** and improving API response speed by **15%**.
+- Built unit test coverage with Pytest to **85%** for improved deployment confidence.
 
-### Full Stack Developer Intern | Digital Pathshala
-> **March 2025 – May 2025**
+### Backend Developer | Pulse Platform (Remote)
+> **Jun 2025 – Oct 2025**
 
-- Gained hands-on experience in full-stack web development, working with front-end and back-end technologies.
-- Assisted in implementing new functionalities and UI improvements for various internal projects.
-- Contributed to database design and API development within an agile environment.
+- Delivered and maintained Python backend services, reducing production incidents by **25%**.
+- Designed MongoDB schemas and integrated Redis caching to improve read performance by **15%**.
+- Improved debugging and documentation workflows, reducing issue resolution time by **20%**.
+
+### Full-Stack Developer Intern | Digital Pathshala
+> **Mar 2025 – May 2025**
+
+- Delivered full-stack features across internal products with better UI responsiveness.
+- Integrated MinIO object storage, reducing file retrieval time by **35%**.
+- Built end-to-end frontend and backend workflows, reducing manual processing steps by **25%**.
 
 ## Technical Skills
 
-**Languages**: Python, JavaScript, TypeScript, C, C++, Go.
+**Languages**: Python, JavaScript, TypeScript, C, C++, Go
 
-**Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io.
+**Frameworks/Libraries**: FastAPI, Flask, SQLAlchemy, React, Node.js, Express.js, Socket.io
 
-**Databases**: PostgreSQL, SQLite, Redis, Firebase
+**Databases/Storage**: PostgreSQL, MongoDB, Redis, SQLite, Firebase, MinIO
 
-**Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux.
+**Tools/Platforms**: Git, Docker, Linux, Postman, Alembic, SMART on FHIR
 
 <div> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
