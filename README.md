@@ -1,7 +1,5 @@
 # Avinash Pokhrel 
 
-## Software Engineer
-
 I build reliable backend systems and full-stack applications with a focus on performance, maintainability, and real-world impact. I work primarily with Python, FastAPI, and modern web technologies to deliver production-ready software that scales.
 
 ## Work Experience
