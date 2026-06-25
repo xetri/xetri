@@ -5,7 +5,7 @@ I build reliable backend systems and full-stack applications with a focus on per
 ## Work Experience
 
 ### Software Engineer | Caredevi Services LLC (Remote)
-> **Nov 2025 – Present**
+> **Nov 2025 – Jun 2026**
 
 - Architected a FastAPI microservice powering end-to-end healthcare workflows with **99.9% uptime** and **1,000+ daily transactions**.
 - Implemented SMART on FHIR integrations for secure, interoperable healthcare data exchange.
